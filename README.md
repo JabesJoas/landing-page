@@ -1,2 +1,2 @@
 # landing-page
-Repositorio criado pra Dessafio de Projeto
+Repositorio criado pra Dessafio de Projeto.
